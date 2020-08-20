@@ -1,0 +1,20 @@
+
+.jumbotron .jumbotron-fluid {
+	background-image: url(img/tumbs/1.jpeg);
+}
+
+
+
+
+section {
+    min-height: 420px;
+}
+
+ .container .display-4 {
+    font-weight: bold;
+}
+
+.container .lead {
+    font-weight: bold;
+}
+
